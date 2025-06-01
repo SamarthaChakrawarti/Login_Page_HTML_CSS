@@ -1,0 +1,1 @@
+This is a simple HTML and CSS project featuring a homepage with a login interface for an agriculture and AI-based business. It includes fields for username and password, designed with a clean layout to provide basic authentication functionality.
